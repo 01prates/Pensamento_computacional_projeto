@@ -17,6 +17,28 @@ funcionalidades a interface do sistema
 
 '''
 
+p1_nome = "hamburguer piraju"
+p1_estoque = 50
+p1_preco = 25.00
+p1_validade = "05.01.2027"
+p1_descricao =  "hamburguer simples e famoso PCQ (Pao de brioche, Hamburguer 150g e queijo)"
+
+p2_nome = "hamburguer santa cruz"
+p2_estoque = 51
+p2_preco = 27.50
+p2_validade = "12.01.2027"
+p2_descricao = "para os fans de bacon, pao brioche, 2 discos de smash burguer, Queijo, baconese e fatias de bacon"
+
+p3_nome = "Leme"
+p3_estoque = 49
+p3_preco = 30.00
+p3_validade = "02.12.2027"
+p3_descricao = "Pao de brioche, maionese verde, hamburguer de 150g, queijo, alface amaricana, tomate, picles e cebola roxa"
+
+
+
+
+
 # 
 while True:
     print('-' * 48 + '\n')
